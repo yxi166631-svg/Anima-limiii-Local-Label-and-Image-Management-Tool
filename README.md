@@ -1,4 +1,4 @@
-# Anima-limiii
+# Anima-limiii-Local Label and Image Management Tool
 ANIMA本地标签与图片管理工具
 下载链接如下
 https://1815015379.share.123pan.cn/123pan/RFDeVv-qjfi?pwd=J4D2#
