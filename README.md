@@ -2,7 +2,8 @@
 ANIMA本地标签与图片管理工具
 下载链接如下
 『来自123云盘用户的分享』
-链接：https://1815015379.share.123pan.cn/123pan/RFDeVv-5XCL
+链接：『来自123云盘用户的分享』
+链接：https://1815015379.share.123pan.cn/123pan/RFDeVv-np3L
 
 
 ANIMA 5.9 更新说明-2026-10-11
