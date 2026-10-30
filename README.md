@@ -193,3 +193,5 @@ https://github.com/zetaneko/AnimaDex
 https://github.com/Aaalice233/ComfyUI-Danbooru-Gallery
 
 https://github.com/nregret/Comfyui-Anima-Tools
+
+https://github.com/ffdkj/ffdkj-Danbooru_Tag-Chinese-English-Translation-Table
