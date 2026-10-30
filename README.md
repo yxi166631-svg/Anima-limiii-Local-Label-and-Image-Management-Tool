@@ -187,7 +187,7 @@ ANIMA本地标签和图像管理工具 是一款用于浏览、整理和管理 A
 
 
 
-以下是参考链接
+以下是参考链接，感谢感谢感谢
 https://github.com/zetaneko/AnimaDex
 
 https://github.com/Aaalice233/ComfyUI-Danbooru-Gallery
